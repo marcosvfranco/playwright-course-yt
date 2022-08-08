@@ -1,0 +1,21 @@
+{
+  "name": "playwright-test-ts",
+  "version": "1.0.0",
+  "description": "Repository used to teach and demonstrate Playwright Tests in the channel [Marcos Franco](https://www.youtube.com/channel/UCPxLAsG-hkLCYxkc6MidttA)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosvfranco/playwright-test-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosvfranco/playwright-test-ts/issues"
+  },
+  "homepage": "https://github.com/marcosvfranco/playwright-test-ts#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.24.2"
+  }
+}
